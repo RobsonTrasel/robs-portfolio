@@ -13,7 +13,7 @@ export const parameters = {
 
 export const decorators = []
 
-Object.defineProperty(nextImage, 'default', {
+Object.defineProperty(nextImg, 'default', {
 	configurable: true,
 	value: (props) => {
 		const { width, height } = props;
